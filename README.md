@@ -1,7 +1,7 @@
 # angular_photogallery
 
 
-![](https://github.com/stecor/angular_photogallery/blob/master/angular_image.svg)
+![](/angular_image.png)
 
 ## Getting Started
 
