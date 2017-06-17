@@ -3,21 +3,18 @@
 
 ![](/angular_image.png)
 
+Project in Angulat CLI
+
 ## Getting Started
 
-First install all the necessary dependencies:
-```
-> npm install
-```
+First download or clone the files
 
 Start the development server (changes will now update live in browser):
 ```
-> npm run start
+> ng server
+``
+Navigate to the browser:
+```
+> http://localhost:4200/
 ```
 
-To build the application for production:
-```
-> npm run build
-```
-
-To view the application, go to: [http://localhost:3000/](http://localhost:3000/)
