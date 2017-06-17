@@ -10,11 +10,16 @@ Project in Angulat CLI
 First download or clone the files
 
 Start the development server (changes will now update live in browser):
+
 ```
-> ng server
-``
+ ng server
+
+```
+
 Navigate to the browser:
+
 ```
-> http://localhost:4200/
+ http://localhost:4200/
+
 ```
 
