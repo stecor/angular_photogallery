@@ -12,9 +12,11 @@ First download or clone the files
 Start the development server (changes will now update live in browser):
 
 ```
- ng server
-
+  npm install
 ```
+```
+  npm start
+```  
 
 Navigate to the browser:
 
