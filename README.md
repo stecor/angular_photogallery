@@ -9,7 +9,7 @@ Project in Angulat CLI
 
 First download or clone the files
 
-Start the development server (changes will now update live in browser):
+To build the project locally, download or clone the files and run:
 
 ```
   npm install
