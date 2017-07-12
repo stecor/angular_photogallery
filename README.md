@@ -1,6 +1,8 @@
 # angular_photogallery
 
 
+Live demo: [stecor.github.io/angular_photogallery](http://stecor.github.io/angular_photogallery/)
+
 ![](/angular_image.png)
 
 Project in Angulat CLI
